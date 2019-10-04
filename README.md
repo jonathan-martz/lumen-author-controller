@@ -3,5 +3,5 @@
 
 add to routes/web.php
 ```php
-$router->post('/author', 'AuthorController@select');
+$router->post('/authors', 'AuthorController@select');
 ```
